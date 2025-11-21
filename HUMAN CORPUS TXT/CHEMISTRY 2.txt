@@ -1,0 +1,136 @@
+TITLE: Collapse of a historic oyster fishery: diagnosing causes and identifying paths toward increased resilience.
+AUTHOR: Camp, E. V., W. E. Pine III, K. Havens, A. S. Kane, C. J. Walters, T. Irani, A. B. Lindsey, and J. G. Morris.
+YEAR: 2015
+
+Estuaries exist at the interface of ocean and fresh water and these
+productive and biologically diverse ecosystems provide critical
+services to coastal human communities throughout the world
+(Grabowski and Peterson 2007, Barbier et al. 2011). Among
+aquatic ecosystems, estuaries are particularly sensitive to change
+because relatively small alterations in salinity can affect rates of
+predation, disease, and physiology of the estuarine biota, which
+are adapted to intermediate levels of salinity (Visser et al. 2002,
+Buzan et al. 2009, Petes et al. 2012). Maintenance of estuary
+ecosystem services depends on the resilience of the social-
+ecological system: how natural resources, their users, and the
+governance systems respond to (often unexpected) change
+(Berkes and Folke 1998, Olsson et al. 2004, Gunderson 2010). In
+a future of elevated biosphere temperature, associated changes in
+evapotranspiration or precipitation patterns will likely reduce
+water input to estuaries at the same time that sea level is rising,
+allowing greater incursion of salt water from the ocean (Graeff
+et al. 2013, Ingram 2013). These effects may be exacerbated in
+areas where droughts are common, when low riverine flow reduces
+nutrient and fresh water inputs into estuaries (Elsdon et al. 2009).
+These changes may particularly impact sessile biota such as the
+eastern oyster (Crassostrea virginica; hereafter “oyster”), which
+becomes more prone to disease (Petes et al. 2012), and impacts
+of marine predators (Oczkowski et al. 2011, Rindone and
+Eggleston 2011) under increased salinity conditions.
+
+An area potentially sensitive to such climate-change-driven
+alterations is Apalachicola Bay, in the Gulf of Mexico in the
+southeastern USA. This estuary is fed by a large river system (the
+Apalachicola-Chattahoochee-Flint, or ACF basin) that spans the
+boundaries of three states, Georgia, Alabama, and Florida (Fig.
+1). The river and its series of man-made dams and reservoirs
+provide flood protection; provide water supply to urban,
+residential, and agricultural users; and are the primary fresh water
+input to the Apalachicola estuary at the river’s mouth.
+Apalachicola Bay supports an economically important oyster
+fishery known for its high quality product that historically has
+accounted for 90% of oysters sold in Florida and over 10% of
+oysters sold in the continental USA (USACE 1998). The
+Apalachicola River has a history of drought and flood, and the
+bay has a contemporaneous history of wax and wane of its oyster
+population (Wilber 1992, Livingston et al. 1997, Livingston 2015,
+Pine et al. 2015). Apalachicola Bay oysters and the oyster fishery
+have also experienced negative impacts from tropical storms that
+may alter habitat (Berrigan 1988), increased predator abundance
+and disease occurrence during drought (Menzel et al. 1966, Petes
+et al. 2012), and fluctuations in market demand. All of these
+factors can and have led to temporally variable oyster abundance
+and harvests (Pine et al. 2015).
+The years 2004-2013 were a period of significant societal and
+ecological stress in the Apalachicola Bay region. This stress was
+
+not only due to the Apalachicola Bay fishing community’s
+dependence on the availability of a highly variable natural
+resource (oysters for fishery harvest), but also to multiple extreme
+regional environmental stressors. Wind, storm surge, and coastal
+flooding from hurricane Dennis (2005) and tropical storms Fay
+(2008) and Debby (2012) impacted the region. In April 2010
+following the blowout of the Macondo oil well and the sinking
+of the Deepwater Horizon drill platform, the largest marine oil
+spill on record occurred in the northern Gulf of Mexico. This
+event had impacts on Apalachicola Bay oyster resources and the
+Apalachicola community (Grattan et al. 2011). Apalachicola Bay
+oyster fisheries were not closed to harvest during the oil spill,
+unlike large oyster harvesting areas in coastal Texas, Louisiana,
+and Alabama, because oil did not reach the Apalachicola Bay
+region. This initially led to increases in oyster prices and harvests
+to make up for shortages of oyster product in the supply chain.
+Harvests also increased (Pine et al. 2015) possibly because of local
+concerns that livelihoods could be restricted by fishery closures
+that might occur related to the oil spill (as reported by local
+fishermen). By summer 2011, consumer fears about seafood
+safety from the Gulf of Mexico related to the oil spill led to large
+
+declines in seafood demand and ultimately resulted in layoffs in
+the regional oyster and other commercial fisheries industry,
+though not a cessation of oyster harvest in Apalachicola Bay
+(McCrea-Strub et al. 2011, Sumaila et al. 2012). These oil spill-
+related events led to significant stress levels in the people living in
+the Apalachicola Bay area that were similar to those experienced
+in communities directly impacted by the oil spill (Grattan et al.
+2011).
+At the same time, from 2010 throughout most of 2012, drought
+conditions across the ACF basin led to extremely low
+Apalachicola River discharge, among lowest on record (S.
+Leitman, W. E Pine III, and G. Kiker, unpublished manuscript),
+and increased salinity levels in Apalachicola Bay (Havens et al.
+2013). Oyster harvests and oyster fishing effort (number of trips)
+from Apalachicola Bay were above recent averages during this
+same time (Pine et al. 2015). In fall 2012, there was a sudden
+collapse in the Apalachicola Bay oyster fishery as harvestable
+oyster populations appeared to be very low. This led to reportedly
+significant underemployment of fishery workers and a request
+from the State of Florida to the National Oceanographic and
+Atmospheric Administration (NOAA) for a fisheries disaster
+declaration to allow the use of federal funds to support the
+industry and community during a time of disaster (Havens et al.
+2013). This request was granted in 2013 (USDC 2013).
+The collapse of the oyster fishery has had a profound effect on
+the Apalachicola Bay human community that largely depends on
+this fishery. Simultaneously, this community’s response to the
+oyster population decline will likely play a prominent role in the
+potential recovery of the oyster population and the economic
+recovery of the fishery-dependent components of the community.
+The critical role that human communities can play in ecosystem
+outcomes, in this case oyster population recovery, has been well
+recognized (Holling 1978, Berkes and Folke 1998, Chapin et al.
+2009). Increasingly research has focused on understanding the
+effects of community or stakeholder identification, analysis, and
+participation in the actual management process (Ostrom 1990,
+2009 Mikalsen and Jentoft 2001). The result is a broad and
+growing acknowledgment that community engagement, e.g.,
+stakeholder participation in citizen science and co management,
+is crucial to developing more effective adaptive governance
+systems characterized by ecosystem resilience (Holling and
+Meffee 1996, Folke et al. 2005, Ostrom 2009).
+At the request of the county governments in the Apalachicola
+region, a team of researchers from the University of Florida met
+in 2012 with the oyster fishing industry, the Apalachicola
+community, and regulatory agencies to do the following: (1)
+identify the proximal cause of the oyster fishery collapse and (2)
+explore options for managing and restoring the resource to make
+it more resilient to future droughts and other changes. This paper
+describes the natural and social science aspects of the project, the
+major challenges faced, assessment outcomes, and management
+recommendations that were developed. This case study is relevant
+to other estuaries because it explores implementing powerful but
+flexible approaches to management for both natural resources
+and resource users (people) in a changing world, where the
+traditional approach of assuming and planning in the context of
+system stationarity is no longer applicable (Milly et al. 2008,
+Hallegatte 2009).
